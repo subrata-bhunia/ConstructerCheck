@@ -23,9 +23,6 @@ namespace ConstructerCheck
             empName = name;
             tech = technology;
         }
-        public void show()
-        {
-            Console.WriteLine("");
-        }
+        
     }
 }
